@@ -20,8 +20,6 @@ jobs:
         id: release
         with:
           release-type: ruby
-          package-name: yabeda-honeybadger_insights
-          version-file: lib/yabeda/honeybadger_insights/version.rb
 
       - uses: actions/checkout@v4
 
