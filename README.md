@@ -62,5 +62,5 @@ Releases are automated using [GitHub Actions](.github/workflows/release.yml):
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-[Honeybadger Insights]: https://www.honeybadger.io/tour/insights/
+[Honeybadger Insights]: https://www.honeybadger.io/tour/logging-observability/
 [Yabeda]: https://github.com/yabeda-rb/yabeda
